@@ -1,1 +1,1 @@
-# DSA-And-Machine-Larning
+# Data-Structure-Algorithms
